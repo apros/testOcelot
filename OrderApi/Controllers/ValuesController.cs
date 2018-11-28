@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ApiGateway.Controllers
+namespace OrderApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
